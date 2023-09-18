@@ -5,3 +5,13 @@ body {
 .hello {
   color: red;
 }
+h1{
+  color: forestgreen;
+  font-size: 2.6rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2.sunday{
+color: fuchsia;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 2rem;
+}
